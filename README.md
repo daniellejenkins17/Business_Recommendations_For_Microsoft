@@ -6,9 +6,9 @@ Microsoft has decided to create a new movie studio, but they don’t know anythi
 
 Data Sources:
 https://github.com/daniellejenkins17/dsc-phase-1-project-v2-4
-Box Office Mojo CSV
-Movie Info TSV
-TMDB Movies CSV
+Box Office Mojo CSV,
+Movie Info TSV,
+TMDB Movies CSV,
 Movie Budgets CSV
 
 Overview of findings:
@@ -18,3 +18,8 @@ Overview of findings:
 -Gaining insight into the most successful studios is important 
 -Studio popularity does not correlate with profit
 
+![Runtime vs Box Office](https://github.com/daniellejenkins17/Project-1--Movies/blob/main/Runtime%20vs%20Box%20Office%20Sales.png)
+
+![Worldwide Profit vs Studio](https://github.com/daniellejenkins17/Project-1--Movies/blob/main/Worldwide%20Profit%20vs%20Studio.png)
+
+![Profit vs Months](https://github.com/daniellejenkins17/Project-1--Movies/blob/main/Profit%20vs%20Months.png)
