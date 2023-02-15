@@ -11,6 +11,8 @@ Movie Info TSV,
 TMDB Movies CSV,
 Movie Budgets CSV
 
+Data Cleaning: Removed unnecessary columns and Pandas joined columns that were useful 
+
 Overview of findings:
 -Summer and Holiday months were more profitable than others
 -Movie release years had a big impact on profit
