@@ -23,3 +23,7 @@ Overview of findings:
 ![Worldwide Profit vs Studio](https://github.com/daniellejenkins17/Project-1--Movies/blob/main/Worldwide%20Profit%20vs%20Studio.png)
 
 ![Profit vs Months](https://github.com/daniellejenkins17/Project-1--Movies/blob/main/Profit%20vs%20Months.png)
+
+![Popularity](https://i.imgur.com/HAgBIw2.png)
+
+![Release Year](https://i.imgur.com/3fZfhKo.png)
