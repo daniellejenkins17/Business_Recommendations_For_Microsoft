@@ -1,4 +1,4 @@
-# Project-1--Movies
+# Business Recommendations for Microsoft's New Movie Studio
 1st Data science project, made recommedations for Microsoft when they created a new movie studio
  
 Business Problem: 
